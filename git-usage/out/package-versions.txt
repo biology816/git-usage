@@ -1,0 +1,46 @@
+R version 4.2.2 (2022-10-31)
+Platform: aarch64-apple-darwin20 (64-bit)
+Running under: macOS Ventura 13.0
+
+Matrix products: default
+LAPACK: /Library/Frameworks/R.framework/Versions/4.2-arm64/Resources/lib/libRlapack.dylib
+
+locale:
+[1] en_US.UTF-8/en_US.UTF-8/en_US.UTF-8/C/en_US.UTF-8/en_US.UTF-8
+
+attached base packages:
+[1] stats     graphics  grDevices utils     datasets  methods   base     
+
+other attached packages:
+[1] ggplot2_3.4.0
+
+loaded via a namespace (and not attached):
+ [1] knitr_1.40       magrittr_2.0.3   splines_4.2.2    munsell_0.5.0    lattice_0.20-45  colorspace_2.0-3
+ [7] R6_2.5.1         rlang_1.0.6      fastmap_1.1.0    fansi_1.0.3      tools_4.2.2      grid_4.2.2      
+[13] nlme_3.1-160     gtable_0.3.1     mgcv_1.8-41      xfun_0.34        utf8_1.2.2       cli_3.4.1       
+[19] withr_2.5.0      htmltools_0.5.3  yaml_2.3.6       digest_0.6.30    tibble_3.1.8     lifecycle_1.0.3 
+[25] Matrix_1.5-1     farver_2.1.1     vctrs_0.5.0      glue_1.6.2       evaluate_0.17    rmarkdown_2.17  
+[31] labeling_0.4.2   compiler_4.2.2   pillar_1.8.1     scales_1.2.1     pkgconfig_2.0.3 
+R version 4.2.2 (2022-10-31)
+Platform: aarch64-apple-darwin20 (64-bit)
+Running under: macOS Ventura 13.0
+
+Matrix products: default
+LAPACK: /Library/Frameworks/R.framework/Versions/4.2-arm64/Resources/lib/libRlapack.dylib
+
+locale:
+[1] en_US.UTF-8/en_US.UTF-8/en_US.UTF-8/C/en_US.UTF-8/en_US.UTF-8
+
+attached base packages:
+[1] stats     graphics  grDevices utils     datasets  methods   base     
+
+other attached packages:
+[1] ggplot2_3.4.0
+
+loaded via a namespace (and not attached):
+ [1] knitr_1.40       magrittr_2.0.3   splines_4.2.2    munsell_0.5.0    lattice_0.20-45  colorspace_2.0-3
+ [7] R6_2.5.1         rlang_1.0.6      fastmap_1.1.0    fansi_1.0.3      tools_4.2.2      grid_4.2.2      
+[13] nlme_3.1-160     gtable_0.3.1     mgcv_1.8-41      xfun_0.34        utf8_1.2.2       cli_3.4.1       
+[19] withr_2.5.0      htmltools_0.5.3  yaml_2.3.6       digest_0.6.30    tibble_3.1.8     lifecycle_1.0.3 
+[25] Matrix_1.5-1     farver_2.1.1     vctrs_0.5.0      glue_1.6.2       evaluate_0.17    rmarkdown_2.17  
+[31] labeling_0.4.2   compiler_4.2.2   pillar_1.8.1     scales_1.2.1     pkgconfig_2.0.3 
